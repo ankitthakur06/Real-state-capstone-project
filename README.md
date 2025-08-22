@@ -1,7 +1,7 @@
 ﻿# My Project
  🏠 Real Estate Data Science Application
  
-🔹 Introduction
+#  Introduction
 
 This project is a full-scale data science application designed for the real estate industry. It focuses on property price prediction, analytics, and personalized recommendations using advanced machine learning and AI techniques.
 The system was built from data gathering (web scraping) to production-level deployment (AWS + Streamlit), making it a complete end-to-end capstone project.
@@ -12,7 +12,7 @@ Market insights through interactive analytics dashboards
 A recommender system suggesting properties based on facilities, price, and location
 A user-friendly web app accessible to end-users
 
-🔹 Key Features
+# Key Features
 
 
 ✔️ Data Pipeline – Automated collection & cleaning of property listings from 99acres and other sources
@@ -62,6 +62,7 @@ Python 3.8+
 Jupyter Notebook / VS Code
 
 AWS account (for deployment)
+
 
 
 
