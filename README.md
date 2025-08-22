@@ -29,11 +29,11 @@ A user-friendly web app accessible to end-users
 
 ✔️ Productionalization – Streamlit web app deployed on AWS for scalability and real-world use
 
-Prerequisites
+# Prerequisites
 
 To run or contribute to this project, you should have:
 
-Technical Skills:
+# Technical Skills:
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
@@ -45,7 +45,7 @@ AWS (for deployment)
 
 SQL (for data handling, optional)
 
-Libraries Used:
+# Libraries Used:
 
 pandas, numpy, scikit-learn, matplotlib, seaborn
 
@@ -55,12 +55,13 @@ streamlit
 
 beautifulsoup4 / requests (for scraping)
 
-Environment:
+# Environment:
 
 Python 3.8+
 
 Jupyter Notebook / VS Code
 
 AWS account (for deployment)
+
 
 
